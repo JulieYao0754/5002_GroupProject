@@ -1,0 +1,36 @@
+,stationId,longitude,latitude,station_type
+0,dongsi_aq,116.417,39.929,Urban Stations
+1,tiantan_aq,116.407,39.886,Urban Stations
+2,guanyuan_aq,116.339,39.929,Urban Stations
+3,wanshouxigong_aq,116.352,39.878,Urban Stations
+4,aotizhongxin_aq,116.397,39.982,Urban Stations
+5,nongzhanguan_aq,116.461,39.937,Urban Stations
+6,wanliu_aq,116.287,39.987,Urban Stations
+7,beibuxinqu_aq,116.174,40.09,Urban Stations
+8,zhiwuyuan_aq,116.207,40.002,Urban Stations
+9,fengtaihuayuan_aq,116.279,39.863,Urban Stations
+10,yungang_aq,116.146,39.824,Urban Stations
+11,gucheng_aq,116.184,39.914,Urban Stations
+12,fangshan_aq,116.136,39.742,Suburban Stations
+13,daxing_aq,116.404,39.718,Suburban Stations
+14,yizhuang_aq,116.506,39.795,Suburban Stations
+15,tongzhou_aq,116.663,39.886,Suburban Stations
+16,shunyi_aq,116.655,40.127,Suburban Stations
+17,pingchang_aq,116.23,40.217,Suburban Stations
+18,mentougou_aq,116.106,39.937,Suburban Stations
+19,pinggu_aq,117.1,40.143,Suburban Stations
+20,huairou_aq,116.628,40.328,Suburban Stations
+21,miyun_aq,116.832,40.37,Suburban Stations
+22,yanqin_aq,115.972,40.453,Suburban Stations
+23,dingling_aq,116.22,40.292,Other Stations
+24,badaling_aq,115.988,40.365,Other Stations
+25,miyunshuiku_aq,116.911,40.499,Other Stations
+26,donggaocun_aq,117.12,40.1,Other Stations
+27,yongledian_aq,116.783,39.712,Other Stations
+28,yufa_aq,116.3,39.52,Other Stations
+29,liulihe_aq,116.0,39.58,Other Stations
+30,qianmen_aq,116.395,39.899,Stations Near Traffic
+31,yongdingmennei_aq,116.394,39.876,Stations Near Traffic
+32,xizhimenbei_aq,116.349,39.954,Stations Near Traffic
+33,nansanhuan_aq,116.368,39.856,Stations Near Traffic
+34,dongsihuan_aq,116.483,39.939,Stations Near Traffic
